@@ -157,11 +157,6 @@ transition-duration: 0.7s;
   padding: 0 20px;
   
 }
-
-
-
-
-
 .footer{
   height:200px;
   line-height:50px;
@@ -171,28 +166,33 @@ transition-duration: 0.7s;
   z-index: 10;
   width:100%;
 }
-
-.footer-right{
+content{
   float: right;
+}
+.ci{
+  float: right;
+  padding:0 20px;
 }
 
 .footer-left{
   float:left;
+  font-size: 30px;
+  padding: 20px;
 }
 
-.htmlLogo {
+.htmllogo {
   height: 48px;
   width: 54px;
   margin-top: 11px;
 }
 
-.cssLogo {
+.csslogo {
   height: 48px;
   width: 54px;
   margin-top: 11px;
 }
 
-.jsLogo {
+.jslogo {
   height: 48px;
   width: 54px;
   margin-top: 11px;
