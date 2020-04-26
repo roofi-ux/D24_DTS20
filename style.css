@@ -5,8 +5,6 @@ h1, h2, h3, h4, h5, h6, p, div {
   padding: 0;
 }
 
-
-
 li {
   list-style: none;
 }
@@ -91,7 +89,7 @@ header{
 }
 
 .lesson-wrapper {
-  height: 1300px;
+  height: 1200px;
   background-color: #121212;
 }
 
@@ -166,7 +164,28 @@ transition-duration: 0.7s;
   z-index: 10;
   width:100%;
 }
-content{
+
+.footer{
+  height:200px;
+  line-height:50px;
+  background: rgba(34, 49, 52, 0.9);
+  color:#fff;
+  bottom:0px;
+  z-index: 10;
+  width:100%;
+}
+
+.footer{
+  height:200px;
+  line-height:50px;
+  background: rgba(34, 49, 52, 0.9);
+  color:#fff;
+  bottom:0px;
+  z-index: 10;
+  width:100%;
+}
+
+.content{
   float: right;
 }
 .ci{
