@@ -72,3 +72,11 @@ header{
     right: 0;
     background: rgba(0, 0, 0, 0.5);
   }
+.kata{
+    float: left;
+    width: 25%;
+}
+.display{
+    float: left;
+    width: 25%;
+}
