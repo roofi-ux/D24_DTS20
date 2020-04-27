@@ -5,7 +5,9 @@ body{
   margin: 0;
   font-family: "Lucida Grande";
 }
-
+.clear {
+  clear: left;
+}
 li {
   list-style: none;
 }
