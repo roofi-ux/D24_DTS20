@@ -19,6 +19,9 @@
   .top-wrapper h2 {
     font-size: 32px;
   }
+  main{
+    width:80%;
+  }
   
   .heading h3 {
     font-size: 20px:
@@ -40,6 +43,9 @@
   .top-wrapper {
     width:100%;
     text-align: left;
+  }
+  main{
+    width:100%;
   }
   
   .header-right {
