@@ -16,17 +16,16 @@ a {
   text-decoration: none;
 }
 .menu-icon{
-color: white;
-    float: right;
-    font-size: 25px;
-    padding: 0 20px;
-    display: none;
-    line-height: 65px;
+  color: white;
+  float: right;
+  font-size: 25px;
+  padding: 0 20px;
+  display: none;
+  line-height: 65px;
 }
 
 .container{
-  width: 1170px;
-  max-width: 1170px;
+  max-width:1170px;
   width: 100%;
   padding: 0 15px;
   margin: 0 auto;
