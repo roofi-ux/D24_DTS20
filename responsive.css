@@ -1,5 +1,12 @@
 /* Untuk Tablets */
 @media all and (max-width: 1000px) {
+  .top-header{
+    width:80%;
+    padding:0px;
+  }
+  .top-wrapper{
+  width:100%;
+  }
   .lesson {
     width: 50%;
     margin-bottom: 50px;
@@ -17,6 +24,7 @@
 
 /* Untuk Smartphones */
 @media all and (max-width:670px) {
+  
   .lesson {
     width: 100%;
   }
@@ -26,6 +34,7 @@
   }
   
   .top-wrapper {
+    width:100%;
     text-align: left;
   }
   
